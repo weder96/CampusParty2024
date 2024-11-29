@@ -1,0 +1,7 @@
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/controller/PingController.java
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/StreamLambdaHandler.java
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/service/BedrockService.java
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/controller/BedrockController.java
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/service/impl/AWSBedRockAgentServiceImpl.java
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/dto/Prompt.java
+/home/weder/Documentos/Projects/CampusParty2024/lambda/aws-lambda-consumer/src/main/java/dev/wsousa/Application.java
